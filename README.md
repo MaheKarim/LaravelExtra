@@ -1,4 +1,4 @@
-<center># LaravelExtra </center>
+# LaravelExtra
 LaravelExtra - Readymade Backend System  <br>
 
 The Readymade Option: 
