@@ -1,12 +1,12 @@
 # LaravelExtra
-LaravelExtra - Readymade Backend System 
+LaravelExtra - Readymade Backend System  <br>
 
-
-✔ Authentication Done!
-✔ Password Update Done!
+<hr>
+✔ Authentication Done! <br>
+✔ Password Update Done! <br>
 ✔ Backend-System Done! 
 
 ## System Info
 
-Login Mail: admin@mail.com
+Login Mail: admin@mail.com <br>
 PassWord  : 12345678
